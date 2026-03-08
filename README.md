@@ -95,5 +95,5 @@ I build products, not just features.
 ## 📫 Contact
 
 - Email: yt4307@gmail.com
-- Portfolio: (준비중)
+- Portfolio: [정연한 FE 포트폴리오](./정연한%20FE%20포트폴리오.pdf)
 - Blog: (준비중)

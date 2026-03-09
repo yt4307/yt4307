@@ -1,25 +1,28 @@
-# 안녕하세요, 정연한입니다 👋  
-Frontend Engineer | Web-first Product Builder
+# 안녕하세요, 정연한입니다 👋
 
-낯선 기술 영역도 빠르게 흡수해 실제 서비스로 연결하는 프론트엔드 엔지니어입니다.  
-코드를 작성하는 것에서 끝나지 않고, 배포 가능한 제품으로 완성하는 것을 목표로 합니다.
+Frontend Engineer | Product-focused Web Developer  
+React / Next.js / TypeScript
 
----
-
-## 🚀 About Me
-
-- 🖥️ React / Next.js 기반 웹 중심 개발
-- 🔗 Web3 프론트엔드 경험 (Ethers.js, Smart Contract Integration)
-- 🤖 AI-assisted development를 활용한 빠른 학습 및 문제 해결
-- 👥 100명 규모 프로그래밍 소모임 회장 (2년)
-- 🏁 해커톤 다수 참여 및 수상 경험
-- 🎯 끝까지 연결해내는 실행 중심 개발자
+낯선 기술 환경에서도 빠르게 구조를 이해하고 실제 서비스로 연결하는 프론트엔드 엔지니어입니다.  
+단순히 기능을 구현하는 것보다 **배포 가능한 제품을 완성하는 개발**을 지향합니다.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+- 🖥 React / Next.js 기반 웹 중심 개발
+- 🔗 Web3 프론트엔드 경험 (Ethers.js, Wallet, On-chain Transactions)
+- 📱 React Native × WebView 브릿지 구조 설계 경험
+- 🧠 AI-assisted development 기반 빠른 학습과 문제 해결
+- 👥 100명 규모 프로그래밍 커뮤니티 회장 (2년)
+- 🏁 해커톤 참여 및 서비스 현장 배포 경험
+
+---
+
+# 🛠 Tech Stack
 
 ### Core
+
 - TypeScript
 - React
 - Next.js (App Router / SSR / ISR)
@@ -28,72 +31,112 @@ Frontend Engineer | Web-first Product Builder
 - Styled-components / Emotion
 
 ### Web3
+
 - Ethers.js
 - Wallet Connection UX
 - On-chain Transaction Handling
 - Smart Contract ↔ Frontend Integration
 
 ### Dev & Infra
-- PNPM
+
 - Git / GitHub
+- PNPM
 - Docker
-- AWS, GCP, NCP
 - Basic CI/CD
+- Cloud Experience (AWS / GCP / NCP)
 
 ---
 
-## 🔥 Highlight Projects
+# 🔥 Highlight Projects
 
-### 🏦 PAWNABLE
+## 🏕 Mallang MT
+
+MT 숙소 · 장보기 통합 예약 서비스
+
+- Next.js 기반 서비스 프론트엔드 개발
+- RBAC 기반 접근 제어 구조 설계
+- Toss Payments 결제 연동
+- 실제 서비스 배포 및 SEO 설정
+
+🔗 GitHub  
+https://github.com/yt4307/mallang-mt
+
+🌐 Service  
+https://mallangmt.com/
+
+---
+
+## 🏦 PAWNABLE
+
 P2P On-chain Collateralized Lending Protocol
-- Next.js + Ethers.js 기반 프론트엔드 개발
-- 스마트 컨트랙트와 실제 트랜잭션 흐름 연결
-- EasyA Consensus Hackathon (Hong Kong, 2026)에서 실배포
+
+- Next.js + Ethers.js 기반 Web3 프론트엔드 개발
+- Wallet connection / allowance / transaction lifecycle UX 구현
+- EasyA Consensus Hackathon (Hong Kong 2026) 현장 배포
+
+🔗 GitHub  
+https://github.com/EarthIsMine/PAWNABLE
+
+🌐 Demo  
+https://pawnable.site/
 
 ---
 
-### 🌍 Codex Of Touch
+## 📱 TuTi
+
+React Native 기반 관광 코스 추천 앱
+
+- React Native 환경에서 KakaoMap JS SDK 사용 제약 해결
+- WebView + postMessage 기반 RN ↔ Web 브릿지 설계
+- 웹 지도 SPA를 앱 환경에 통합
+
+🔗 GitHub  
+https://github.com/noon-maru/TuTi
+
+---
+
+## 🎮 Codex Of Touch
+
 World ID 기반 Human-only Competitive Game
+
 - Next.js 기반 인증 중심 UX 설계
 - AI-generated 3D asset 활용
 - World ID 기반 참여 구조 설계
 
----
-
-### 🧾 Art in Numbers
-Web + Embedded Interactive Exhibition System
-- Next.js + Fastify
-- Raspberry Pi 서버 구축
-- Web 이벤트 → 이미지 생성 → UART 영수증 프린터 출력 파이프라인 설계
+🔗 GitHub  
+https://github.com/EarthIsMine/CodexOfTouch
 
 ---
 
-## 👑 Leadership Experience
+# 👑 Leadership Experience
 
-### 인트아이(INTI, Inha Univ. Programming Community)
-President (2021.01–2023.01)
+### 인트아이 (inti, Inha Univ. Programming Community)
 
-- 약 100명 규모 커뮤니티 운영
+President (2021–2023)
+
+- 약 100명 규모 개발 커뮤니티 운영
 - 내부 해커톤 3회 기획 및 운영
 - C++, Python, React, Spring 스터디 커리큘럼 설계
 - IPC (Inti Programming Challenge) 개최
-- 프로젝트 완성 중심 문화 구축
+- 프로젝트 완성 중심 개발 문화 구축
 
 ---
 
-## 🧠 What Defines Me
+# 🧠 What Defines Me
 
-- 빠르게 배우고
-- 구조를 이해하고
-- 실제로 연결하고
-- 끝까지 완성합니다
+빠르게 배우고  
+구조를 이해하고  
+문제를 해결하고  
+끝까지 완성합니다
 
-I build products, not just features.
+**I build products, not just features.**
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- Email: yt4307@gmail.com
-- Portfolio: [정연한 FE 포트폴리오](./정연한%20FE%20포트폴리오.pdf)
-- Blog: (준비중)
+Email  
+yt4307@gmail.com
+
+Portfolio  
+[정연한 FE 포트폴리오](./정연한%20FE%20포트폴리오.pdf)
